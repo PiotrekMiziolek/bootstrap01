@@ -1,0 +1,8 @@
+body {
+    background-color: black;
+    color: aliceblue;
+}
+.photoTitle {
+    text-align: center;
+    font-size: 1rem;
+}
